@@ -1,0 +1,782 @@
+﻿24 matches found: 
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_09_24\Tutorial_2_2\Tutorial_2_2\Form1.cs>
+    File: `115_09_24/Tutorial_2_2/Tutorial_2_2/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial_2_2
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter3\Tutorial 3-5\Change Counter\Change Counter\Form1.cs>
+    File: `教材1/Chapter3/Tutorial 3-5/Change Counter/Change Counter/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Change_Counter
+{
+    public partial class Form1 : Form
+    {
+        
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void fiveCentsPictureBox_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void tenCentsPictureBox_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void twentyFiveCentsPictureBox_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void fiftyCentsPictureBox_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            // Close the form.
+            this.Close();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter3\Tutorial 3-5\Change Counter\Change Counter\Form1.cs>
+    File: `教材1/Chapter3/Tutorial 3-5/Change Counter/Change Counter/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Change_Counter
+{
+    public partial class Form1 : Form
+    {
+        
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void fiveCentsPictureBox_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void tenCentsPictureBox_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void twentyFiveCentsPictureBox_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void fiftyCentsPictureBox_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            // Close the form.
+            this.Close();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter 05\Tutorial 5-4\Friend File\Friend File\Form1.cs>
+    File: `教材1/Chapter 05/Tutorial 5-4/Friend File/Friend File/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.IO;
+
+namespace Friend_File
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void writeNameButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            // 關閉表單。
+            this.Close();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter 05\Tutorial 5-4\Friend File\Friend File\Form1.cs>
+    File: `教材1/Chapter 05/Tutorial 5-4/Friend File/Friend File/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.IO;
+
+namespace Friend_File
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void writeNameButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            // 關閉表單。
+            this.Close();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter3\Tutorial 3-5\Change Counter\Change Counter\Program.cs>
+    File: `教材1/Chapter3/Tutorial 3-5/Change Counter/Change Counter/Program.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Windows.Forms;
+
+namespace Change_Counter
+{
+    static class Program
+    {
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\Form1.cs>
+    File: `教材1/Chapter 05/Tutorial 5-7/Total Sales/Total Sales/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.IO;
+
+namespace Total_Sales
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void calculateButton_Click(object sender, EventArgs e)
+        {
+            // 計算按鈕點擊事件處理
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            // 關閉表單
+            this.Close();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter 4\Tutorial 4-3\Loan Qualifier\Form1.cs>
+    File: `教材1/Chapter 4/Tutorial 4-3/Loan Qualifier/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Loan_Qualifier
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void checkButton_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void clearButton_Click(object sender, EventArgs e)
+        {
+            // Clear the TextBoxes and the decisionLabel.
+            salaryTextBox.Text = "";
+            yearsTextBox.Text = "";
+            decisionLabel.Text = "";
+
+            // Reset the focus.
+            salaryTextBox.Focus();
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            // Close the form.
+            this.Close();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter 4\Tutorial 4-3\Loan Qualifier\Form1.cs>
+    File: `教材1/Chapter 4/Tutorial 4-3/Loan Qualifier/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Loan_Qualifier
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void checkButton_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void clearButton_Click(object sender, EventArgs e)
+        {
+            // Clear the TextBoxes and the decisionLabel.
+            salaryTextBox.Text = "";
+            yearsTextBox.Text = "";
+            decisionLabel.Text = "";
+
+            // Reset the focus.
+            salaryTextBox.Focus();
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            // Close the form.
+            this.Close();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter 4\Tutorial 4-6\Time Zone\Form1.cs>
+    File: `教材1/Chapter 4/Tutorial 4-6/Time Zone/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Time_Zone
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void okButton_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            // Close the form.
+            this.Close();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter 4\Tutorial 4-6\Time Zone\Form1.cs>
+    File: `教材1/Chapter 4/Tutorial 4-6/Time Zone/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Time_Zone
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void okButton_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            // Close the form.
+            this.Close();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\Form1.cs>
+    File: `教材1/Chapter 05/Tutorial 5-8/Coin Toss/Coin Toss/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Coin_Toss
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void tossButton_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            // Close the form.
+            this.Close();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\Form1.cs>
+    File: `教材1/Chapter 05/Tutorial 5-8/Coin Toss/Coin Toss/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Coin_Toss
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void tossButton_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            // Close the form.
+            this.Close();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter 05\Tutorial 5-3\Speed Converter\Speed Converter\Form1.cs>
+    File: `教材1/Chapter 05/Tutorial 5-3/Speed Converter/Speed Converter/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Speed_Converter
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void displayButton_Click(object sender, EventArgs e)
+        {
+            // 常數
+            const int START_SPEED = 60;
+            const int END_SPEED = 130;
+            const int INTERVAL = 10;
+            const double CONVERSION_FACTOR = 0.6214;
+
+
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            // 關閉表單
+            this.Close();
+        }
+    }
+}
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter 05\Tutorial 5-6\South America\South America\Form1.cs>
+    File: `教材1/Chapter 05/Tutorial 5-6/South America/South America/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.IO;
+
+namespace South_America
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void getCountriesButton_Click(object sender, EventArgs e)
+        {
+            // 這裡是取得國家按鈕的點擊事件處理程式。
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            // 關閉表單。
+            this.Close();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter 05\Tutorial 5-1\Ending Balance\Ending Balance\Form1.cs>
+    File: `教材1/Chapter 05/Tutorial 5-1/Ending Balance/Ending Balance/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Ending_Balance
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void calculateButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void clearButton_Click(object sender, EventArgs e)
+        {
+            // 清除 TextBoxes 和 endingBalanceLabel 控制項的內容。
+            startingBalTextBox.Text = "";
+            monthsTextBox.Text = "";
+            endingBalanceLabel.Text = "";
+
+            // 重設焦點。
+            startingBalTextBox.Focus();
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            // 關閉表單。
+            this.Close();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter 4\Tutorial 4-6\Time Zone\Properties\AssemblyInfo.cs>
+    File: `教材1/Chapter 4/Tutorial 4-6/Time Zone/Properties/AssemblyInfo.cs`
+```c#
+/*...*/using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+[assembly: AssemblyTitle("Time Zone")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("Toshiba")]
+[assembly: AssemblyProduct("Time Zone")]
+[assembly: AssemblyCopyright("Copyright © Toshiba 2010")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+
+// Setting ComVisible to false makes the types in this assembly not visible 
+// to COM components.  If you need to access a type in this assembly from 
+// COM, set the ComVisible attribute to true on that type.
+[assembly: ComVisible(false)]
+
+// The following GUID is for the ID of the typelib if this project is exposed to COM
+[assembly: Guid("8660298e-d02e-4915-b95b-7e87ace1a55c")]
+
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+/*...*/
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter 4\Tutorial 4-6\Time Zone\Properties\AssemblyInfo.cs>
+    // Lines 27 to 36
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter 4\Tutorial 4-6\Time Zone\Program.cs>
+    File: `教材1/Chapter 4/Tutorial 4-6/Time Zone/Program.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Windows.Forms;
+
+namespace Time_Zone
+{
+    static class Program
+    {
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter 05\Tutorial 5-6\South America\South America\Properties\AssemblyInfo.cs>
+    File: `教材1/Chapter 05/Tutorial 5-6/South America/South America/Properties/AssemblyInfo.cs`
+```c#
+/*...*/using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+[assembly: AssemblyTitle("South America")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("Toshiba")]
+[assembly: AssemblyProduct("South America")]
+[assembly: AssemblyCopyright("Copyright © Toshiba 2010")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+
+// Setting ComVisible to false makes the types in this assembly not visible 
+// to COM components.  If you need to access a type in this assembly from 
+// COM, set the ComVisible attribute to true on that type.
+[assembly: ComVisible(false)]
+
+// The following GUID is for the ID of the typelib if this project is exposed to COM
+[assembly: Guid("a897ea1e-46df-40c3-b1e7-8655c0da8ee2")]
+
+// Version information for an assembly consists of the following four values:
+/*...*/
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter 05\Tutorial 5-6\South America\South America\Properties\AssemblyInfo.cs>
+    File: `教材1/Chapter 05/Tutorial 5-6/South America/South America/Properties/AssemblyInfo.cs`
+```c#
+/*...*/using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+[assembly: AssemblyTitle("South America")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("Toshiba")]
+[assembly: AssemblyProduct("South America")]
+[assembly: AssemblyCopyright("Copyright © Toshiba 2010")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+
+// Setting ComVisible to false makes the types in this assembly not visible 
+// to COM components.  If you need to access a type in this assembly from 
+// COM, set the ComVisible attribute to true on that type.
+[assembly: ComVisible(false)]
+
+// The following GUID is for the ID of the typelib if this project is exposed to COM
+[assembly: Guid("a897ea1e-46df-40c3-b1e7-8655c0da8ee2")]
+
+// Version information for an assembly consists of the following four values:
+/*...*/
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter3\Tutorial 3-5\Change Counter\Change Counter\Properties\AssemblyInfo.cs>
+    // Lines 26 to 36
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\教材1\Chapter3\Tutorial 3-1\Birth Date String\Birth Date String\Properties\AssemblyInfo.cs>
+    // Lines 25 to 36
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_10_15\Tutorial 3-1\Birth Date String\Birth Date String\Properties\AssemblyInfo.cs>
+    // Lines 26 to 36
+</match>
